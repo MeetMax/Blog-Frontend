@@ -28,4 +28,7 @@ npm run dev
 - axios
 - webpack
 - babel
+
+## 感谢
+#### 感谢 [mmf-blog-vue2](https://github.com/lincenying/mmf-blog-vue2) 的开源代码
  
