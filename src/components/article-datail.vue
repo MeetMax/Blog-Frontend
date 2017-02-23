@@ -38,7 +38,7 @@
     <div class="card">
       <div class="comments">
         <div class="comment-post-wrap">
-          <img src="http://ww2.sinaimg.cn/large/005uQRNCgw1f4ij3d8m05j301s01smwx.jpg"
+          <img src="../assets/image/header.png"
                alt="" class="avatar-img">
           <div class="comment-post-input-wrap base-textarea-wrap">
             <textarea id="content" cols="30" rows="4" class="textarea-input base-input"></textarea>
@@ -50,13 +50,13 @@
         <div class="comment-items-wrap">
           <div class="comment-item">
             <a href="javascript:;" class="comment-author-avatar-link">
-              <img src="http://ww2.sinaimg.cn/large/005uQRNCgw1f4ij3d8m05j301s01smwx.jpg" alt="" class="avatar-img">
+              <img src="../assets/image/header.png" alt="" class="avatar-img">
             </a>
             <div class="comment-content-wrap">
                   <span class="comment-author-wrap">
-                      <a href="javascript:;" class="comment-author">林岑影</a>
+                      <a href="javascript:;" class="comment-author">admin</a>
                   </span>
-              <div class="comment-content">回复 @josephine: 只是字幕mmf而已, 这个字体比较特别...</div>
+              <div class="comment-content">还没有人发表评论</div>
               <div class="comment-footer">
                   <span class="comment-time">2016-12-09 21:12:27</span>
                 <a href="javascript:;" class="comment-action-item comment-reply">回复</a>

@@ -20,7 +20,7 @@ const router=new VueRouter({
     },
     {
       name:'hot',
-      path:'/article/:by',
+      path:'/trending/:by',
       component:Index
     },
     {

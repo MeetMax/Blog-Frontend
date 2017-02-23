@@ -27,7 +27,7 @@
         </span>
         <span class="nav-me">
             <a href="/user/account" class="nav-me-link">
-                <img src="http://ww2.sinaimg.cn/large/005uQRNCgw1f4ij3d8m05j301s01smwx.jpg" class="nav-avatar-img">
+                <img src="../assets/image/header.png" class="nav-avatar-img">
             </a>
         </span>
       </div>

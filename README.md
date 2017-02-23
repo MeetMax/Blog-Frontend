@@ -1,27 +1,31 @@
-# my-blog
+# 博客前台
 
-> personal blog
+> 本项目是一套基于Vue2的个人博客项目。
 
-## Build Setup
+
+## 项目搭建
 
 ``` bash
-# install dependencies
+# 将项目克隆到本地
+git clone https://github.com/MeetMax/Blog-Frontend.git
+
+# 进入项目目录
+cd Blog-Frontend
+
+#安装项目依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 开启开发环境服务
 npm run dev
-
-# build for production with minification
-npm run build
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
+>注意：本项目需要配合服务端使用，关于服务端请戳 [Blog-API](https://github.com/MeetMax/Blog-API)
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 项目截图
+![image](http://i1.piimg.com/586187/16b4b7bee2772724.png)
+## 主要技术栈
+- Vuex
+- Vue-router
+- axios
+- webpack
+- babel
+ 
